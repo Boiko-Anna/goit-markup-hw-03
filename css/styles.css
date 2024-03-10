@@ -11,11 +11,11 @@ img {
 }
 
 /** ===========HEADER================ */
-.header-conteiner {
+.header-container {
     display: flex;
     align-items: center;
 }
-.conteiner {
+.container {
     width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
@@ -104,6 +104,8 @@ color: #434455;
 
 .hero {
 background: #2e2f42;
+padding-top: 188px;
+padding-bottom: 188px;
 }
 
 .hero-title {
